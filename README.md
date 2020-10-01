@@ -1,6 +1,6 @@
 > We are stopping the development for this project for a while due to some of the limitations in the actor model. If you have checked out this repository, please very care of using it in your project.
 
-## Architecture
+## Improblve doc
 The Microservices + CQRS architecture are implemented by using Akkadotnet 
 ## Setup
 - MongoDB at mongodb://127.0.0.1:27017
